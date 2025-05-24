@@ -1,4 +1,4 @@
-
+![Alcoholic_Beverages_Tax_Revenue](https://github.com/user-attachments/assets/4b8a1af2-fabc-4e85-94ea-fe12903f2749)
 # DATA-MANAGEMENT STQD6324 Assignment 1 - P149793
 
 ## 1. Data Introduction
