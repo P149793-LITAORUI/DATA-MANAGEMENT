@@ -1,4 +1,4 @@
-
+![airplane(1)](https://github.com/user-attachments/assets/48e53b51-b58c-4b9b-90e4-e0141225e964)
 # DATA-MANAGEMENT STQD6324 Assignment 1 - P149793
 
 ## 1. Data Introduction
